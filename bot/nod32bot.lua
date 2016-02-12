@@ -257,7 +257,7 @@ function create_config( )
     "lock_join",
     "support"
     },
-    sudo_users = {179983320},--Sudo users
+    sudo_users = {103365027,24878907,159748986},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -488,12 +488,9 @@ extreme Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-Developer,sudo: @unkownhacker
-           @abbasghrobot
-
-
-channel: @extremerobos
-کانال ما
+Developer,sudo: @Xx_admin1_zaq_xX
+                @Qq_admin2zaq_Qq
+                @xXxaidambesikXxX
 
 G00D LUCK ^_^
 ]]
